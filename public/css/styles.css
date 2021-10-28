@@ -1,0 +1,192 @@
+h3 {
+  color: #615e5f;
+  font-weight: 700 !important;
+  font-size: 30px !important;
+  margin-bottom: 20px !important;
+  }
+
+  
+
+  .bg-tosca {
+    background-color: #148691 !important;
+  }
+  
+  a.bg-tosca:hover,
+  a.bg-tosca:focus,
+  button.bg-tosca:hover,
+  button.bg-tosca:focus {
+    background-color: #1f9ba7 !important;
+  }
+
+  .bg-yellow {
+    background-color: #e6af19 !important;
+  }
+  
+  a.bg-yellow:hover,
+  a.bg-yellow:focus,
+  button.bg-yellow:hover,
+  button.bg-yellow:focus {
+    background-color: #e2b539 !important;
+  }
+
+  .bg-green {
+    background-color: #389b5b !important;
+  }
+  
+  a.bg-green:hover,
+  a.bg-green:focus,
+  button.bg-green:hover,
+  button.bg-green:focus {
+    background-color: rgb(47, 131, 67) !important;
+  }
+
+  .bg-red {
+    background-color: #d12929 !important;
+  }
+  
+  a.bg-red:hover,
+  a.bg-red:focus,
+  button.bg-red:hover,
+  button.bg-red:focus {
+    background-color: rgb(197, 74, 86) !important;
+  }
+
+.mb-4,
+.my-4 {
+  margin-top: 1rem !important;
+}
+
+.navbar-brand > img {
+  max-height: 50px;
+  vertical-align: middle;
+}
+
+.logo-laporan > img {
+  max-height: 50px;
+  vertical-align: middle;
+}
+
+.item-admin > img {
+  max-height: 70px;
+}
+.item-admin {
+  padding-top: 10px !important;
+  padding-bottom: 5px !important;
+  text-align: center !important;
+  font-weight: 600 !important;
+  color: #535151 !important;
+}
+
+.btn-logout {
+  position: relative !important;
+  margin-left: 10px !important;
+  height: auto !important;
+  color: #fff !important;
+  background-color: #DE5757 !important;
+}
+.card-header {
+  font-weight: 600;
+}
+
+.card-body-title {
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.card-body-number {
+  text-align: center;
+  font-weight: 700;
+  font-size: 40px;
+  color: #fff;
+}
+
+.card-body-number:hover {
+  color: #fff;
+  text-decoration: none;
+}
+
+.tambah-data .btn-tambah {
+  padding-left: 10px;
+  padding-right: 10px;
+  position: relative;
+  height: auto;
+  color: #fff;
+  background-color: #4d4b4b;
+}
+.btn:focus, .btn.focus {
+  outline: 0;
+  box-shadow: 0 0 0 0.2rem rgba(46, 51, 58, 0.25) !important;
+}
+
+.tambah-data .btn-tambah:hover {
+  color: #fff;
+  background-color: #5a5858;
+}
+
+/* BTN Edit */
+.btn-edit {
+  background-color: #5f88ce !important;
+  color: #303332;
+}
+
+.btn-edit:hover {
+  background-color: #749adb !important;
+}
+/* BTN Tosca */
+.btn-tosca {
+  background-color: #22a2ad !important;
+  color: #303332;
+}
+
+.btn-tosca:hover {
+  background-color: #35b3be !important;
+}
+/* BTN Laporan */
+.btn-laporan {
+  border-width: 2px !important;
+  border-color: #21bbc9 !important;
+  color: #0aafbe !important;
+  font-weight: 600 !important;
+}
+
+.btn-laporan:hover {
+  border-color: #44d2df !important;
+}
+.btn-laporan:focus, .btn-laporan.focus {
+  outline: 0;
+  box-shadow: 0 0 0 0.2rem rgba(79, 199, 189, 0.829) !important;
+}
+
+/* BTN Hapus */
+.btn-delete {
+  background-color: #ca4b4b !important;
+  color: #252e29;
+}
+
+.btn-delete:hover {
+  background-color: #de5757 !important;
+}
+
+.col-form-label {
+  font-weight: 700;
+}
+
+.form-control:focus{
+  border-color: #737475 !important;
+  box-shadow: 0 0 0 0.2rem  rgba(124, 131, 141, 0.25) !important;
+}
+.custom-file-input:focus ~ .custom-file-label {
+  border-color: #737475 !important;
+  box-shadow: 0 0 0 0.2rem  rgba(124, 131, 141, 0.25) !important;
+}
+
+.tabel-input {
+  height: calc(1.2em + 0.5rem + 2px) !important;
+}
+
+.table-header {
+  text-align: center !important;
+  font-weight: 800 !important;
+}
+
+

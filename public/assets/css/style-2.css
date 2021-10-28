@@ -1,0 +1,156 @@
+.font-dancing{
+    font-family: 'Caveat',
+    cursive;
+    font-size: 20px;
+}
+/* navbar */
+.navbar {
+    background-color: #FEF3EF !important;
+}
+
+.navbar .nav-item {
+    margin-right: 30px;
+    font-weight: 500;
+}
+
+.nav-item.active a {
+    color: #77200C !important;
+    font-weight: 700;
+}
+
+.nav-link span {
+    color: #77200C !important;
+    font-weight: 700;
+}
+
+/* corousel */
+.carousel{
+    height: 680px;
+}
+.carousel-item{
+    height: 680px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.carousel-item .row{
+    background-color: rgba(0, 0, 0, 0.2);
+    height: 680px;
+    color: white;
+}
+
+.carousel-item .row h1{
+    font-family: 'Dancing Script',
+    cursive;
+    font-size: 125px;
+}
+
+.carousel-item .row button {
+    width: 200px;
+    height: 50px;
+}
+
+/* jumbotron */
+
+.jumbotron{
+    height: 400px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+.footer {
+    margin-top: 200px;
+    background-color: #FEF3EF;
+    color: #77200C;
+}
+
+.footer .nav a {
+    color: #77200C;
+    font-weight: 200;
+    font-size: 12px;
+}
+
+.btn-brown {
+    background-color: #77200C;
+    color: white;
+}
+.btn-brown:hover{
+    background-color: #942810;
+    color: white;
+}
+
+.btn-outline-brown {
+    border-color: #77200C;
+    color: white;
+}
+.btn-outline-brown:hover{
+    background-color: #77200C;
+    color: white;
+}
+
+/* breadcumb */
+.breadcrumb {
+    margin-top: 100px;
+}
+
+.card-bread {
+    margin-top: 25px;
+}
+
+.btn-product {
+    margin: 50px 0;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #eaeaef
+}
+
+.btn-product .btn {
+    display: block;
+    margin: 10px 0;
+}
+
+
+.product-desc {
+    background-color: #f6f7fb;
+    height: 350px;
+}
+
+.product-desc .tab-content {
+    background-color: white;
+    border: 1px solid #dee2e6;
+    border-top: 0;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.06)
+}
+
+.product-desc .tab-content p {
+    font-weight: 200;
+    color: #868686;
+    line-height: 20px;
+    font-size: 16px;
+}
+
+
+.product-review p {
+    font-size: 14px !important;
+}
+
+.similar{
+    margin-top: 150px;
+}
+
+/* figure */
+.images-figure{
+    height: 250px;
+    width: 250px;
+    margin-bottom: 10px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.nama-produk{
+    color: black;
+}
+.nama-produk:hover{
+    color: #77200C;
+}
