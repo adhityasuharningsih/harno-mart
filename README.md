@@ -1,3 +1,42 @@
+# Sistem Inventory Harno-Mart berbasis web
+
+Merupakan sistem CRUD pengolahan data barang sederhana berbasis web, dengan menggunakan framework CodeIgniter-4 dan menggunakan konsep MVC (Model View Controller).
+
+Sistem dapat menampilkan data stok barang yang ada berdasarkan transaksi barang masuk dan barang keluar gudang. Terdapat tiga warna pada kolom stok yang mengidentifikasi ketersedian dari setiap barang, warna merah menandakan stok barang dalam keadaan menipis, warna hijau menandakan stok barang dalam keadaan aman dan warna kuning menandakan stok barang dalam keadaan berlebih. 
+
+Sistem dapat melakukan pengolahan data seperti :
+- Pengolahan data Supplier atau Pemasok
+- Pengolahan data Kategori Barang
+- Pengolahan data Barang
+- Pengolahan data Barang Masuk
+- Pengolahan data Barang Keluar
+- Pengolahan data User
+
+
+# Tampilan Sistem
+
+- Halaman Login
+
+  ![HM-login](https://user-images.githubusercontent.com/92847512/139365143-bd316d7a-8049-4939-a05b-b1058fd5b373.png)
+
+- Halaman Dashboard
+
+  ![HM-dashboard](https://user-images.githubusercontent.com/92847512/139365181-fd0d25eb-9bb9-42e4-a41a-087a33bc4b88.png)
+
+- Halaman Stok Barang
+
+  ![HM-databrg](https://user-images.githubusercontent.com/92847512/139365275-0f70be4f-bf79-4720-b04f-6a7ec33a57ba.png)
+
+- Halaman Tambah Data Barang
+
+  ![HM-inputbrg](https://user-images.githubusercontent.com/92847512/139366094-f821c1c2-1ff5-4715-b201-8ea52fe1afe1.png)
+  
+- Halaman Tambah Barang Masuk
+
+  ![HM-inpbrgmasuk](https://user-images.githubusercontent.com/92847512/139366356-ee3a6976-a399-4f48-9f43-682914b684a0.png)
+
+
+
 # CodeIgniter 4 Application Starter
 
 ## What is CodeIgniter?
